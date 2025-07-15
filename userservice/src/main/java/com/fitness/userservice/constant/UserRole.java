@@ -1,4 +1,4 @@
-package com.fitness.userservice.utiliy;
+package com.fitness.userservice.constant;
 
 public enum UserRole {
 

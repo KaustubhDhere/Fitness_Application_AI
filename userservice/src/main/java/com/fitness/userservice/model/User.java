@@ -1,7 +1,7 @@
 package com.fitness.userservice.model;
 
 
-import com.fitness.userservice.utiliy.UserRole;
+import com.fitness.userservice.constant.UserRole;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

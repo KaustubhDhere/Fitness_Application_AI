@@ -85,7 +85,6 @@ public class UserService {
                 .build();
     }
 
-
     public UserResponse deleteUserProfile(String userId) {
         if (userId == null || userId.trim().isEmpty()) {
             throw new RuntimeException("Invalid userId in request");
